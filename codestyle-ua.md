@@ -232,7 +232,7 @@ margin-right 2px
   &-ball
     background-image url("icon-ball.png")
   &-basketball
-    background-image url("icon-bacgkround.png")
+    background-image url("icon-basketball.png")
 ```
 
 ##### Стейти
