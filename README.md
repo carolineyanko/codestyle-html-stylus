@@ -3,4 +3,4 @@ Code Style for HTML &amp; Stylus. Maybe later in common languages.
 
 * [In Ukrainian language](https://github.com/dmitruksergey/codestyle-html-stylus/blob/master/codestyle-ua.md)
 
-We use it at [Betlab](http://betlab.com/) :-)
+We use it at [Betlab](http://jobs.dou.ua/companies/betlab/).
