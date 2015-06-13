@@ -102,11 +102,11 @@ Questions?
   float left
   vertical-align top
   box-sizing border-box
-  overflow hidden
   width 100px
   height 100px
   margin 10px
   padding 10px 20px
+  overflow hidden
   border 10px solid #333
 
   // Відображення
