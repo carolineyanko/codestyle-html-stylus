@@ -100,13 +100,13 @@ Questions?
   content " "
   display block
   float left
+  overflow hidden
   vertical-align top
   box-sizing border-box
   width 100px
   height 100px
   margin 10px
   padding 10px 20px
-  overflow hidden
   border 10px solid #333
 
   // Відображення
